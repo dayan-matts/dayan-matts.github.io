@@ -1,0 +1,35 @@
+---
+title: <center> Tarea1 </center>
+author: <center> Zamora Mata Bridney Dayanara </center>
+date: <center>21 de marzo de 2021 </center>
+output: html_document
+---
+
+##  {style="text-align: justify;"}
+
+</br>
+
+El chile es un excelente condimento y amigo en la cocina mexicana que aporta color, sabor y aroma, pero no solo se encuentra en los productos alimenticios, sino que actualmente lo podemos encontrar en productos cosméticos o farmacéuticos ya que tiene muchas propiedades medicinales. El consumo también es diferente: el fresco generalmente se usa como verdura o condimento; el seco se utiliza principalmente a las industrias alimentaria y farmacéutica, tiene diferentes funciones y propiedades.
+
+El cultivo de los diferentes tipos de chiles se adapta a diferentes climas y tipos de suelo que existen en México y también al cultivo que se lleva a cabo por pequeños productores que utilizan las semillas de las plantas nativas. Como se mencionó anteriormente el chile puede tener diferentes usos y si este es fresco o seco, cuando tenemos un chile seco no solo se utiliza como condimento sino en industrias de cosméticos y cuando es fresco como una verdura de los platillos, los dos importantes para la gastronomía mexicana tanto seco como fresco. En mexico del 2016 al 2019 la produccion de chile seco amentado 464 toneladas, esto muestra como la demanda de este a aumnetado asi como la producccion en los ultimos 4 años.
+
+Las razones por las que el chile tiene una alta demanda es el uso que tiene no solo como condimento sino en sectores farmacéuticos y cosméticos también, como la creación de ungüento, lociones y cremas estas con el fin de aliviar dolores musculares, Otro uso es en la industria cosmética es uno de los principales ingredientes en shampoo, este con propiedades para combatir la caída y acelerar el crecimiento del cabello entre otros beneficios. De esta manera podemos observar cómo no solo tiene usos en la cocina sino también medicinales, su exportación es importante ya que contribuye en gran parte a la economía mexicana, además de que los productos derivados de el hacen que aumente la demanda en países del extranjero.
+
+Mexico es uno de los principales exportadores en mexico de chile seco, chile seco por su gran sabor a sido introducido en otras culturas y ha llegado a formar parte de ellas, se ha convertido en uno de los condimentos más utilizados en el mundo después de la sal, la globalización y el aumento del consumo de alimentos étnicos, está influenciando fuertemente el consumo de comidas picantes, en las que el chile picante deshidratado es fundamental, ya sea solo o mezclado con otras especias o hierbas. 
+
+
+</br>
+
+<center>
+
+![Fuente: imagen 1] (https://img2.freepng.es/20180712/zfo/kisspng-mexican-cuisine-salsa-poblano-guajillo-chili-chili-dried-chilli-5b4762dc9a57c1.1702424215314050206322.jpg){width="300"}
+
+</center>
+
+</br>
+
+## Bibliografía {style="text-align: justify;"}
+
+</br>
+
+1.  SAGARPA. (2017). Planeación agrícola nacional 2017-2030. Recuperado el 8 de marzo de 2021 de https://www.gob.mx/cms/uploads/attachment/file/257072/Potencial-Chiles_y_Pimientos-parte_uno.pdf</br>
